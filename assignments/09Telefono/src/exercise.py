@@ -6,7 +6,7 @@ def main():
     
     costo = (0.80*sms) + (0.80*mega) + (0.80*minu)
    
-print("El costo mensual es de: $",costo, "pesos")
+    print("El costo mensual es de: $",costo, "pesos")
 
 if __name__ == '__main__':
     main()
